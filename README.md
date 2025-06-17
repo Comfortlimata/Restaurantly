@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Website – [Your Restaurant Name]
+# 🍽️ Restaurant Website LimataEats
 
 Welcome to the official repository of our Restaurant Website! This project aims to provide a fully functional, user-friendly online presence for a restaurant. It includes features for showcasing specials, viewing the gallery, posting events, allowing customer orders, and admin content management.
 
