@@ -1,0 +1,183 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Light background */
+    color: #333; /* Dark text */
+  }
+  
+  h1, h2, h3 {
+    font-weight: bold;
+    color: #2c3e50; /* Dark blue for headings */
+  }
+  
+  p {
+    color: #555; /* Medium gray for text */
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background: linear-gradient(to right, #3498db, #2ecc71); /* Blue to green gradient */
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+  }
+  
+  .hero .btn {
+    background-color: #e74c3c; /* Red button */
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero .btn:hover {
+    background-color: #c0392b; /* Darker red on hover */
+  }
+  
+  /* Today's Specials Section */
+  .specials {
+    padding: 50px 0;
+  }
+  
+  .specials h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .special-item {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .special-item img {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+  }
+  
+  .special-item h3 {
+    margin-top: 15px;
+    color: #e74c3c; /* Red for dish names */
+  }
+  
+  .special-item p {
+    color: #777; /* Light gray for descriptions */
+  }
+  
+ /* Orders Section */
+.orders {
+  background-color: #f8f9fa; /* Light background */
+  padding: 20px; /* Add spacing */
+}
+
+.orders h2 {
+  font-size: 2rem;
+  color: #2c3e50; /* Dark blue for heading */
+}
+
+.orders .form-group label {
+  font-weight: bold;
+  color: #333; /* Dark text for labels */
+}
+
+.orders .form-control {
+  border-radius: 5px;
+  border: 1px solid #ccc; /* Light border */
+}
+
+.orders .btn {
+  background-color: #3498db; /* Blue button */
+  color: #fff;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.orders .btn:hover {
+  background-color: #2980b9; /* Darker blue on hover */
+}
+  
+  /* Contact Us Section */
+  .contact {
+    padding: 50px 0;
+  }
+  
+  .contact h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .contact form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .contact .btn {
+    background-color: #2ecc71; /* Green button */
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact .btn:hover {
+    background-color: #27ae60; /* Darker green on hover */
+  }
+  
+  /* Advertisements Section */
+  .advertisements {
+    padding: 50px 0;
+  }
+  
+  .advertisements h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .advertisements img {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #2c3e50; /* Dark blue background */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer a {
+    color: #e74c3c; /* Red links */
+    transition: color 0.3s ease;
+  }
+  
+  .footer a:hover {
+    color: #c0392b; /* Darker red on hover */
+  }
