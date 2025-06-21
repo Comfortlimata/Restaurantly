@@ -1,5 +1,9 @@
 <?php
 session_start();
+
+// Destroy the session
 session_destroy();
-header("Location: login.php");
-exit;
+
+// Redirect to home page
+header('Location: ../index.php');
+exit();
